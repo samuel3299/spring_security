@@ -1,0 +1,16 @@
+com\security\springdata\controller\RegistrationController.class
+com\security\springdata\service\impl\RegistrationServiceImpl.class
+com\security\springdata\entity\PasswordResetToken.class
+com\security\springdata\entity\VerificationToken.class
+com\security\springdata\model\UserModel.class
+com\security\springdata\model\PasswordModel.class
+com\security\springdata\repository\VerificationTokenRepository.class
+com\security\springdata\event\RegistrationCompleteEvent.class
+com\security\springdata\SpringdataApplication.class
+com\security\springdata\event\listener\RegistrationCompleteEventListener.class
+com\security\springdata\repository\PasswordResetTokenRepository.class
+com\security\springdata\entity\User.class
+com\security\springdata\service\RegistrationService.class
+com\security\springdata\controller\WlcomeHome.class
+com\security\springdata\repository\RegistrationRepository.class
+com\security\springdata\config\WebSecurityConfig.class
